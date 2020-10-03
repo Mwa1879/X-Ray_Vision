@@ -48,7 +48,7 @@ cases, which would enable hospitals to provide better patient
 care and help more people.
 
 # Team contributions
-Hossam Zaki Worked on research, building the model/preprocessing, and training and testing the model
-Isaac Nathoo Worked on research, building the model/experimented with preprocessing, and writing the report
-Muhammad Haider Asif Worked on research, building the model/experimented with preprocessing, and writing the report
-Mohammad Abouelafia Worked on research, building the model/preprocessing, and training and testing the model
+Mohamad Abouelafia Worked on research, building the model/preprocessing, and training and testing the model.
+Isaac Nathoo Worked on research, building the model/experimented with preprocessing, and writing the report.
+Hossam Zaki Worked on research, building the model/preprocessing, and training and testing the model.
+Muhammad Haider Asif Worked on research, building the model/experimented with preprocessing, and writing the report.
